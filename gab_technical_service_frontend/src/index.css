@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root {
+  /* background: url('https://core-renderer-tiles.maps.yandex.net/tiles?l=map&v=24.02.03-0-b240129104800&x=2687&y=1237&z=12&scale=2.625&lang=ru_RU&client_id=yandex-web-maps&&ads=enabled'); */
+}

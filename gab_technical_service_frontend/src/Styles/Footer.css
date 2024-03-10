@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+
+.footer {
+    /* Ваши стили для всего подвала */
+    background-color: #f1f1f1;
+    padding: 0 5 5 5px;
+    height: 20%;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    height: 19vh;
+}
+
+.footer-section p {
+    margin-bottom: 10px 0px;
+}
+
+.footer-section {
+    /* Стили для каждого раздела подвала */
+    margin-bottom: 20px;
+    /* Расстояние между разделами */
+    width: 100%;
+    margin-top: 0vh;
+    margin-left: 5px;
+}
+
+.footer-bottom {
+    /* Стили для нижней части подвала */
+    background-color: #ddd;
+    padding: 10px;
+    text-align: center;
+    height: 8vh;
+}
+
+/* Опционально: Если вам нужны стили для основного контента страницы */
+.main-content {
+    padding: 15px;
+    background-color: #fff;
+    /* Дополнительные стили по вашему выбору */
+}
